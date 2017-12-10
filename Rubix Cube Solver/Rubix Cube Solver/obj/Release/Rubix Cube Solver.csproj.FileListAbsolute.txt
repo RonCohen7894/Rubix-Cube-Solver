@@ -1,0 +1,10 @@
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\bin\Release\Rubix Cube Solver.exe.config
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\bin\Release\Rubix Cube Solver.exe
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\bin\Release\Rubix Cube Solver.pdb
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Release\Rubix Cube Solver.csprojResolveAssemblyReference.cache
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Release\Rubix_Cube_Solver.popup.resources
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Release\Rubix_Cube_Solver.RubixCubeSolver.resources
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Release\Rubix_Cube_Solver.Properties.Resources.resources
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Release\Rubix Cube Solver.csproj.GenerateResource.Cache
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Release\Rubix Cube Solver.exe
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Release\Rubix Cube Solver.pdb

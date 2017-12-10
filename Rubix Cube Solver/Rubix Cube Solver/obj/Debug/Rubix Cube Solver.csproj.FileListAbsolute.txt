@@ -1,0 +1,55 @@
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe.config
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.pdb
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csprojResolveAssemblyReference.cache
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.Properties.Resources.resources
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csproj.GenerateResource.Cache
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.exe
+c:\users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.pdb
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe.config
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.exe
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.pdb
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.pdb
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csprojResolveAssemblyReference.cache
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.RubixCubeSolver.resources
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.Properties.Resources.resources
+C:\Users\ron\Desktop\Rubix-Cube-Solver\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csproj.GenerateResource.Cache
+C:\Users\ron\documents\visual studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.RubixCubeSolver.resources
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe.config
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.exe
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.pdb
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.pdb
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csprojResolveAssemblyReference.cache
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.RubixCubeSolver.resources
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.Properties.Resources.resources
+E:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csproj.GenerateResource.Cache
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe.config
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.exe
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.pdb
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.pdb
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csprojResolveAssemblyReference.cache
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.RubixCubeSolver.resources
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.Properties.Resources.resources
+F:\ילדים\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון\רון1\תיקיה חדשה - עותק (9)\תיקיה חדשה - עותק (4)\רון\Finshed Projects\עבודת גמר\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csproj.GenerateResource.Cache
+F:\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe.config
+F:\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.exe
+F:\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.pdb
+F:\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe
+F:\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.pdb
+F:\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csprojResolveAssemblyReference.cache
+F:\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.RubixCubeSolver.resources
+F:\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.Properties.Resources.resources
+F:\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csproj.GenerateResource.Cache
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe.config
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.exe
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.pdb
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.exe
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\bin\Debug\Rubix Cube Solver.pdb
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csprojResolveAssemblyReference.cache
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.RubixCubeSolver.resources
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.Properties.Resources.resources
+C:\Users\ron\Desktop\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix Cube Solver.csproj.GenerateResource.Cache
+C:\Users\ron\Documents\Visual Studio 2015\Projects\Rubix Cube Solver\Rubix Cube Solver\obj\Debug\Rubix_Cube_Solver.popup.resources
